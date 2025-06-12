@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seif Derbali</h1>
-<h3 align="center">Proficient junior software engineer with 2 years of experience in designing, developing, implementing software applications building user-focused solutions, implementing CI/CD pipelines and optimizing system performance. Utilize java, c# , and javascript to write scalable, secure code with a knack for problem-solving.</h3>
+<h3 align="center"Junior Software Engineer with 2 years of hands-on experience developing scalable web applications using Java, Spring Boot, and Angular in a microservices environment. Strong focus on CI/CD, RESTful API development, and database design using both SQL and NoSQL systems. Proven ability to contribute across the full software development lifecycle.</h3>
 
 - 👨‍💻 All of my projects are available at [https://seifderbali.netlify.app/](https://seifderbali.netlify.app/)
 
