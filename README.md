@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seif Derbali</h1>
+<h1 align="center">Hi, I'm Seif Derbali</h1>
 <h3 align="center">Proficient junior software engineer with 2 years of experience in designing, developing, implementing software applications building user-focused solutions, implementing CI/CD pipelines and optimizing system performance. Utilize java, c# , and javascript to write scalable, secure code with a knack for problem-solving.</h3>
 
 - 👨‍💻 All of my projects are available at [https://seifderbali.netlify.app/](https://seifderbali.netlify.app/)
